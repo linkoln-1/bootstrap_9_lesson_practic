@@ -1,0 +1,89 @@
+header {
+	background-color: darkred;
+	color: #fff;
+	font-size: 23px;
+	border-radius: 0 0 15px 15px;
+}
+.nav-top-mein-klass {
+	border-radius: 0 0 10px 10px;
+	background-color: rgba(219, 218, 221, 1) !important;
+}
+.nav-top-mein-klass ul li a{
+	color: darkred;
+}
+aside {
+	background-color: darkred;
+	border-radius: 15px;
+
+}
+aside ul {
+	list-style: none;
+	padding: 10px 0 10px 2rem;
+}
+
+aside ul li {
+	padding: 20px 0 20px 0;
+	cursor: pointer;
+	color: #fff;
+}
+aside ul li:hover {
+	background-color: gray;
+	width: 210px;
+	display: flex;
+	align-items: center;
+	padding-left: 10px;
+	border-radius: 15px;
+}
+.slide img {
+	display: block;
+	width: 100%;
+}
+article {
+	padding: 15px;
+	margin-top: 20px;
+	box-shadow: 10px 10px 10px 10px lightgray;
+	border-radius: 15px;
+}
+.section {
+	margin-top: 40px;
+}
+
+.programm {
+	flex-wrap: wrap;
+}
+.section .darkred {
+	width: 150px;
+	height: 150px;
+	background-color: darkred;
+	padding: 10px;
+	text-align: center;
+	color: #fff;
+	cursor: pointer;
+}
+.section .darkred:hover {
+	background-color: darkorange;
+	padding: 10px;
+	cursor: pointer;
+}
+.section .darkblue {
+	width: 150px;
+	height: 150px;
+	background-color: darkblue;
+	padding: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+	color: #fff;
+	cursor: pointer;
+}
+.section .darkblue:hover {
+	background-color: darkorchid;
+	padding: 10px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+footer {
+	background-color: darkred;
+	color: #fff;
+	font-size: 23px;
+	border-radius: 15px 15px 0 0;
+}
