@@ -1,3 +1,9 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: darkgray;
+}
 header {
 	background-color: darkred;
 	color: #fff;
@@ -43,6 +49,8 @@ article {
 	margin-top: 20px;
 	box-shadow: 10px 10px 10px 10px lightgray;
 	border-radius: 15px;
+	font-size: 15px;
+	color: darkred;
 }
 .section {
 	margin-top: 40px;
@@ -84,6 +92,7 @@ article {
 footer {
 	background-color: darkred;
 	color: #fff;
-	font-size: 23px;
+	font-size: 15px;
 	border-radius: 15px 15px 0 0;
+
 }
