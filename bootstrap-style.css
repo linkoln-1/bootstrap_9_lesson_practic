@@ -25,6 +25,13 @@ aside ul li {
 	padding: 20px 0 20px 0;
 	cursor: pointer;
 	color: #fff;
+	transition: 0.2s;
+}
+aside ul li:hover {
+	padding: 20px 0 20px 0;
+	cursor: pointer;
+	color: #fff;
+	transition: 0.2s;
 }
 aside ul li:hover {
 	background-color: gray;
