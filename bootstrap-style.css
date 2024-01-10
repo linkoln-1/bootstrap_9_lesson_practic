@@ -1,5 +1,5 @@
 header {
-	background-color: darkred;
+	background-color: darkblue;
 	color: #fff;
 	font-size: 23px;
 	border-radius: 0 0 15px 15px;
@@ -9,10 +9,10 @@ header {
 	background-color: rgba(219, 218, 221, 1) !important;
 }
 .nav-top-mein-klass ul li a{
-	color: darkred;
+	color: darkblue;
 }
 aside {
-	background-color: darkred;
+	background-color: darkblue;
 	border-radius: 15px;
 
 }
@@ -82,7 +82,7 @@ article {
 	cursor: pointer;
 }
 footer {
-	background-color: darkred;
+	background-color: darkblue;
 	color: #fff;
 	font-size: 23px;
 	border-radius: 15px 15px 0 0;
